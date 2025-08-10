@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NotSweatyGamer aka Kaushik
-- 🌱I'm currently pursuing bachelors in computer science @swinburne uni
+- 🌱I'm currently pursuing bachelors of cyber security @swinburne uni
 - 👀I know python,java, and ruby
 - 💭Looking to collaborate on stuff and gain experience :)
 - 🤙contact me on discord:kaushik4026
