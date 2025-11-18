@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NotSweatyGamer aka Kaushik
+- 👋 Hi, I’m Kaushik
 - 🌱I'm currently pursuing bachelors of cyber security @swinburne uni
-- 👀I know python,java, and ruby
+- 👀I know python,java,ruby, web dev, c#, ect..
 - 💭Looking to collaborate on stuff and gain experience :)
 - 🤙contact me on discord:kaushik4026
 - <!---
